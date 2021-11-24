@@ -9,7 +9,7 @@ export default function Header() {
             <Container>
                 <Nav>
                     <Logo src='./images/logo.svg' />
-                    <Button>Sign Out</Button>
+                    <Button>Try Out</Button>
                 </Nav>
                 <Flex>
                     <div>
